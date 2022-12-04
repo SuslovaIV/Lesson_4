@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class Fruits {
+public abstract class Fruits {
+    public abstract float getWeight();
 }
